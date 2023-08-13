@@ -6,7 +6,7 @@
 
 **👀 Hey there! 👋 I'm Shivam Maheshwari, a passionate web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is all about creativity, efficiency, and problem-solving. Technology is my playground, and I find immense joy in crafting optimized solutions and bringing innovative ideas to life.**
 
-**🎓 Currently pursuing my BCA with Information Technology from Makhanlal Chaturvedi Rastriya University, I am on a continuous quest to explore and master various technologies that fascinate me. Web development, software development, and the intriguing world of Internet of Things are among my favorite realms of interest.**
+**🎓 Having completed my BCA in Information Technology from Makhanlal Chaturvedi Rastriya University, I am now pursuing my MCA at MITS Gwalior. With an insatiable curiosity to explore and master various captivating technologies, my focus lies in realms such as web development, software development, and the intriguing universe of Internet of Things.**
 
 **🚀 One of my key strengths lies in front-end development, where I thrive in crafting captivating user experiences using a mix of Java, HTML, CSS, and JavaScript. I am also well-versed in navigating Linux and operating systems, ensuring a smooth development environment.Problem-solving is second nature to me, and I genuinely enjoy diving into complex challenges, breaking them down, and devising elegant solutions. Git and GitHub are my trusted companions for managing and collaborating on projects, allowing me to work seamlessly within teams.**
 
